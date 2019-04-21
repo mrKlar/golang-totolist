@@ -1,0 +1,1 @@
+curl -H "Host: helloworld-go.default.example.com" http://192.168.64.7
